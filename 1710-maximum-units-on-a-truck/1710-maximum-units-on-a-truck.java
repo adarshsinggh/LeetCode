@@ -4,6 +4,7 @@ class Solution {
             return b[1]-a[1];
         });
         
+        
         int maximum = 0;
         int leftSize = truckSize;
         
